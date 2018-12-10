@@ -11,3 +11,5 @@ def fun1():
 a=fun1()
 for l in a:
 	print(l,end=",")
+
+print(" Thanks")
